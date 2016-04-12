@@ -1,5 +1,5 @@
-# tic_tac_toe
-Tic Tac Toe 
+
+<strong>Tic Tac Toe</strong> <br/>
 A simple working game of tic-tac-toe written in Javascript.
 
 The complete game adheres to the following:
